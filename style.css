@@ -177,7 +177,7 @@ color: yellow;
 }
 .container5:hover .overlay5 {
     color: transparent;
-    background: url('./s8.png');
+    background: url('./assets/s8.png');
     height: 85px;
     width: 85px;
     border-radius: 50%;
